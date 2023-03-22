@@ -1,0 +1,39 @@
+/* 
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: orange !important; 
+    height: 80px;
+    display: grid;
+}
+.navbar-logo{
+    display: inline;
+}
+.element{
+    display: inline;
+    padding: 10px;
+    font-size: larger;
+}
+.container{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+.m-screen{
+font-weight: bold;
+font-size: 9vh;
+width: 40vw;
+margin-top: 20vh;
+margin-left: 6vw;
+display: inline-block;
+}
+.m-screen-con{
+    display: flex;
+    text-shadow: .2em .2em 0 orange;
+}
+.first-screen{
+    background-color: rgb(255, 247, 236);
+    height: 85vh;
+    border-radius: 0px 0px 10px 10px;
+}
+ */
